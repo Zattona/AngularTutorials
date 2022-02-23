@@ -18,6 +18,4 @@ This repository contains all of the source code used in the course called HTML, 
 
 * [Module-1](https://salahatwa.github.io/sample_repo_test/Assignments/Hello-world/dist/hello-world)
 * [Module-2](https://salahatwa.github.io/sample_repo_test/Assignments/module-2/index.html)
-* [Module-3](https://salahatwa.github.io/sample_repo_test/Assignments/module-3/index.html)
-* [Module-4](https://salahatwa.github.io/sample_repo_test/Assignments/module-4/index.html)
-* [Module-5](https://salahatwa.github.io/sample_repo_test/Assignments/module-5/index.html)
+* [Module-3](https://zattona.github.io/AngularTutorials/Angular/router-example/app)
